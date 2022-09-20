@@ -1,0 +1,27 @@
+body{
+    background-image: url('/ocean_0.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+.turbo {
+    padding: 15PX 25PX;
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid gray;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: dotted;
+    display: inline-block;
+}
+
+.turbo:hover {
+    color: blue;
+    text-decoration: underline;
+    border-color: aqua;
+}
